@@ -1,48 +1,38 @@
 ```markdown
-# 👁️‍🗨️ Welcome to My OSINT Lab! 🔍
+# 👋 Welcome to My OSINT Domain!
 
-### About Me
-Hey there! I'm **iwantican2running**, an OSINT Analyst passionate about uncovering the secrets hidden in plain sight. I thrive on using data to craft compelling narratives and enhance cybersecurity. Join me on this thrilling journey through the world of open-source intelligence!
+## 🤔 About Me
+I am **iwantican2running**, a passionate **Threat Hunter** specializing in **Open Source Intelligence (OSINT)**. My mission? To uncover hidden patterns and vulnerabilities lurking in the digital shadows. With a keen eye for detail and a relentless pursuit of knowledge, I leverage OSINT to empower organizations against cyber threats. 
 
-![Data Flow GIF](https://media.giphy.com/media/xT0xeGjJvG2n8mZMM0/giphy.gif)
-
----
-
-### 🛠️ Tech Stack
-I wield a variety of tools to dig deep into the digital realm:
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) 
-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff) 
-- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff) 
-- ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=ffffff) 
-- ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=ffffff) 
-- ![Metasploit](https://img.shields.io/badge/Metasploit-9C27B0?style=flat-square&logo=metasploit&logoColor=ffffff) 
-- ![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=flat-square&logo=nmap&logoColor=ffffff)
+![Hacking Visualization](https://media.giphy.com/media/l0IylNn38D8w4g4sM/giphy.gif)
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwantican2running&theme=dark&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iwantican2running&layout=compact&theme=radical)  
+## 💻 Tech Stack
+Here are the tools I wield in the realm of cybersecurity:
+
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+- **Frameworks**: ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-3E8CBA?style=flat&logo=wireshark&logoColor=white)
+- **Tools**: ![Metasploit](https://img.shields.io/badge/Metasploit-5B6D9A?style=flat&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4EAA25?style=flat&logo=nmap&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=iwantican2running&color=blue)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=iwantican2running&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=iwantican2running&theme=onedark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iwantican2running&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwantican2running&theme=dark&show_icons=true)  
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: [iwantican2running@example.com](mailto:iwantican2running@example.com)
-- 🌐 LinkedIn: [iwantican2running](https://www.linkedin.com/in/iwantican2running)
+## 📬 Let's Connect!
+- **Twitter**: [@iwantican2running](https://twitter.com/iwantican2running)
+- **LinkedIn**: [iwantican2running](https://linkedin.com/in/iwantican2running)
 
 ---
 
-![Cybersecurity Animation](https://media.giphy.com/media/l0MYGZ0z9zK9U6H9i/giphy.gif)
+### 🌐 Explore the digital frontier with me!
+![Network Visualization](https://media.giphy.com/media/l0MYtAXy7IsfP3lqA/giphy.gif)
 
-Let's connect and explore the world of OSINT together! 🕵️‍♂️
 ```
-
-### Explanation:
-- **Dynamic Elements**: Integrated GIFs related to data flow and cybersecurity to enhance visual engagement.
-- **Skill Badges**: Used colored badges for tech stack to create a visually appealing section.
-- **Contact Links**: Included tailored contact information for professional engagement.
-- **GitHub Stats**: Positioned prominently to showcase achievements and skills.
-- **Engaging Tone**: Used a conversational approach to make the README more relatable and engaging.
-- **Efficient Use of Space**: Kept under 1000 characters to maintain conciseness while delivering rich content.
+This README is designed to be visually appealing and engaging, with dynamic elements that enhance the OSINT and cybersecurity theme.
