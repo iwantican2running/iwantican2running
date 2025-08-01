@@ -1,38 +1,43 @@
 ```markdown
-# 👤 iwantican2running - Threat Hunter extraordinaire
+# 👁️‍🗨️ Welcome to My OSINT Domain! 🔍
 
-![Profile Views](https://komarev.com/ghpvc/?username=iwantican2running&color=blue)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Threat+Hunter)
 
-## 🔍 About Me
-Welcome to my GitHub profile! I'm a passionate **Threat Hunter** with a keen interest in uncovering vulnerabilities and protecting digital assets. My mission is to identify threats before they become a problem, leveraging my skills in Open Source Intelligence (OSINT) to analyze and mitigate risks. I thrive in complex environments, always on the lookout for emerging trends in cyber threats. Let's collaborate and make the internet a safer place! 🌐
+## 🕵️ About Me
+I'm **iwantican2running**, a passionate Threat Hunter specializing in **Open Source Intelligence (OSINT)**. My mission is to uncover hidden insights and enhance cybersecurity defenses by leveraging data-driven strategies. With a keen eye for detail and a relentless pursuit of information, I thrive in the dynamic world of cybersecurity.
 
-## 📡 Tech Stack
-Here are the tools and technologies I work with:
+---
 
-- **Languages**: Python, JavaScript, Bash
-- **Frameworks**: Flask, React
-- **Tools**: 
-  - OSINT Tools: Maltego, Recon-ng, TheHarvester
-  - Analysis: Wireshark, Metasploit
-  - Cloud: AWS, Azure
-- **Databases**: SQL, MongoDB
-- **Version Control**: Git, GitHub
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) 
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) 
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white) 
+![Wireshark](https://img.shields.io/badge/-Wireshark-2C5364?style=flat&logo=wireshark&logoColor=white) 
+![Metasploit](https://img.shields.io/badge/-Metasploit-FF3E00?style=flat&logo=metasploit&logoColor=white) 
+![Nmap](https://img.shields.io/badge/-Nmap-00FFFF?style=flat&logo=nmap&logoColor=black)
+
+---
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwantican2running&theme=dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iwantican2running&layout=compact&theme=radical)
-
-## 🔐 Contact
-Feel free to reach out if you're interested in collaboration or have any questions!
-
-- **Email**: iwantican2running@example.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/iwantican2running)
-- **Twitter**: [@iwantican2running](https://twitter.com/iwantican2running)
-
-## 🕵️‍♂️ Let's Connect!
-I am always eager to connect with like-minded individuals in the cybersecurity community. Follow me for insights on threat hunting, OSINT, and the latest cybersecurity trends.
-
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iwantican2running&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=iwantican2running&color=blue)
 
+---
+
+## 💬 Let's Connect
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+- [Email](mailto:youremail@example.com)
+
+---
+
+### 🌟 Dynamic Visuals
+![Hacking Animation](https://media.giphy.com/media/26Ff8qT8xqV1B3y1S/giphy.gif)
+![Data Flow Visualization](https://media.giphy.com/media/3o6Zt8QGqL2T8/200w.gif)
+
+---
+
+🚀 Explore, learn, and connect with me as we navigate the thrilling world of cybersecurity together! 🌐
 ```
-This README is designed to showcase your skills and interests as a Threat Hunter while maintaining a professional and visually appealing layout using Markdown. Feel free to customize any sections further!
