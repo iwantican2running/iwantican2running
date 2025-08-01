@@ -1,37 +1,36 @@
 ```markdown
-# 🔍 Welcome to my OSINT Playground! 🕵️‍♂️
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Data Sleuth) 🔍
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Threat+Hunter)
-
-## About Me
-Passionate about exploring the shadows of the internet, I specialize in Threat Hunting within the OSINT domain. My mission? To unveil hidden threats and empower organizations against cyber adversaries. Let's connect and fortify our defenses! 🔐
-
-![Network Security](https://media.giphy.com/media/3o7aD2sa5J7B3B5P2M/giphy.gif)
-
-## Tech Stack
-| Language/Tool | Skills |
-|---------------|--------|
-| Python        | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF) |
-| Go            | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=FFFFFF) |
-| Bash          | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=FFFFFF) |
-| Kali Linux    | ![Kali](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=FFFFFF) |
-| Wireshark     | ![Wireshark](https://img.shields.io/badge/-Wireshark-1EACED?style=flat&logo=wireshark&logoColor=FFFFFF) |
-| Metasploit    | ![Metasploit](https://img.shields.io/badge/-Metasploit-4EAA25?style=flat&logo=metasploit&logoColor=FFFFFF) |
-| Nmap          | ![Nmap](https://img.shields.io/badge/-Nmap-00C73C?style=flat&logo=nmap&logoColor=FFFFFF) |
-
-## GitHub Stats
-![Trophies](https://github-profile-trophy.vercel.app/?username=iwantican2running&theme=onedark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iwantican2running&theme=dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=iwantican2running&color=blue)
 
-## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
+Welcome to my GitHub profile! I am **iwantican2running**, a passionate Data Sleuth 🕵️ dedicated to uncovering hidden insights and patterns within vast datasets. My mission is to leverage the power of data to solve complex problems and drive informed decision-making. 
 
-![Data Flow](https://media.giphy.com/media/26xB2M5pV6yF3NfYI/giphy.gif)
+## About Me 🌐
+As a Data Sleuth, I thrive on the thrill of discovery. With a keen eye for detail and a relentless curiosity, I investigate data from various sources, transforming raw information into actionable intelligence. When I'm not delving into datasets, you can find me exploring the latest trends in data science and analytics.
+
+## Tech Stack 📊
+Here are the tools and technologies I frequently use in my investigations:
+
+- **Languages:** Python, R, SQL
+- **Frameworks & Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn
+- **Databases:** PostgreSQL, MongoDB
+- **Tools:** Jupyter Notebook, Tableau, Power BI
+- **Cloud Services:** AWS, Google Cloud Platform
+- **Version Control:** Git, GitHub
+
+## Contact 📡
+Feel free to reach out to me for collaborations, questions, or just to connect! 
+
+- **Email:** [iwantican2running@example.com](mailto:iwantican2running@example.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/iwantican2running)
+- **Twitter:** [@iwantican2running](https://twitter.com/iwantican2running)
 
 ---
 
-🌐 Join me on this journey to uncover the unseen and secure our digital world! 📊
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iwantican2running&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwantican2running&theme=dark&show_icons=true)
+
+Thank you for visiting my profile! 🚀 Let's connect and explore the world of data together!
 ```
-This README features an engaging layout with a dynamic feel, seamlessly integrating visuals and links to thematic GIFs that enhance the cybersecurity and OSINT focus.
+
+This README format includes dynamic elements, relevant emojis, and sections that highlight your skills and interests. Feel free to customize the contact information and any other details as necessary!
