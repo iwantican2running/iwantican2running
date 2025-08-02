@@ -1,36 +1,35 @@
 ```markdown
-# 👤 About Me
-Hello! I'm **iwantican2running**, an OSINT Analyst dedicated to unraveling the digital tapestry of information. With a sharp eye for detail and a passion for cybersecurity, I thrive on turning data into actionable insights. Whether it's tracking down vulnerabilities or analyzing threat landscapes, I'm always on the hunt for the next piece of the puzzle. 🔍
+# 🌐 Welcome to My OSINT Realm! 🔍
 
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=OSINT+Analyst)
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-8C3B2A?style=flat&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-00B6C2?style=flat&logo=nmap&logoColor=white)
+## About Me 
+I'm **iwantican2running**, a passionate OSINT Analyst dedicated to uncovering the unseen. My journey in cybersecurity is driven by curiosity and a relentless pursuit of knowledge. With a keen eye for detail, I transform raw data into actionable insights, ensuring security in a digital age.
 
----
+![abstract hacking](https://media.giphy.com/media/xT5LMU1F8e6e1eU0C0/giphy.gif)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwantican2running&theme=dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iwantican2running&layout=compact&theme=radical)
+## Tech Stack
+| Tools & Languages | Proficiency |
+|-------------------|-------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Expert |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | Intermediate |
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | Intermediate |
+| ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) | Expert |
+| ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | Intermediate |
+| ![Metasploit](https://img.shields.io/badge/Metasploit-7E7B93?style=for-the-badge&logo=metasploit-framework&logoColor=white) | Intermediate |
+| ![Nmap](https://img.shields.io/badge/Nmap-00AFB1?style=for-the-badge&logo=nmap&logoColor=white) | Intermediate |
+
+## GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=iwantican2running&color=blue)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iwantican2running&theme=dark)
-![Trophies](https://github-profile-trophy.vercel.app/?username=iwantican2running&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iwantican2running&layout=compact&theme=radical)
+
+## Let's Connect! 📡
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+
+![data flow](https://media.giphy.com/media/3o7aD9v6q9G7aD3M9e/giphy.gif)
 
 ---
-
-## ✉️ Contact Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/iwantican2running)
-- 📧 [Email](mailto:your.email@example.com)
-
----
-
-## 🔥 Dynamic Elements
-![Data Flow](https://media.giphy.com/media/l2Je7V7O4jYjOq3AQ/giphy.gif)  
-![Hacking Animation](https://media.giphy.com/media/xT0xeuOy7z1k6H9R8I/giphy.gif)  
-![Network Scan](https://media.giphy.com/media/3o72F8m1hB8dG7x9Xy/giphy.gif)
 ```
-
-### Notes:
-1. The README maintains a unique structure and integrates multiple dynamic elements, enhancing the overall aesthetic.
-2. GIFs used are thematic and relevant to OSINT/cybersecurity, ensuring a professional appearance.
-3. Badges for the tech stack are visually appealing and provide quick recognition of skills.
-4. Contact information is clearly defined for professional outreach.
+This README showcases a unique layout and engaging content that emphasizes the user's expertise in OSINT and cybersecurity while incorporating dynamic elements and visuals to make it stand out.
