@@ -1,37 +1,52 @@
 ```markdown
-# 👤 iwantican2running
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Threat+Hunter)
+# 🌐 OSINT Analyst | iwantican2running
 
-![Profile Views](https://komarev.com/ghpvc/?username=iwantican2running&color=blue)
-
-## 🌐 About Me
-Hello! I'm **iwantican2running**, a passionate **Threat Hunter** dedicated to uncovering hidden threats in the digital landscape. With a keen eye for detail and a strategic mindset, I thrive on analyzing data to identify vulnerabilities and mitigate risks. My mission is to enhance cybersecurity protocols and protect valuable assets from malicious actors.  
-
-## 🛠️ Tech Stack
-Here are some of the technologies and tools I frequently use in my threat hunting endeavors:
-
-- **Languages:** Python, Bash, JavaScript
-- **Tools:** 
-  - 🔍 **OSINT Tools:** Maltego, Shodan, Recon-ng
-  - 🕵️ **Analysis Tools:** Wireshark, Splunk, ELK Stack
-  - 📡 **Networking:** Nmap, Metasploit
-  - 🔐 **Security:** Snort, Suricata, CrowdStrike
-- **Platforms:** Linux, Windows, AWS
-
-## 📊 Statistics
-![Trophies](https://github-profile-trophy.vercel.app/?username=iwantican2running&theme=onedark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iwantican2running&theme=dark)
-
-## 📬 Contact
-Feel free to reach out if you want to collaborate on projects, share insights, or just have a chat about cybersecurity!
-
-- **LinkedIn:** [iwantican2running](https://www.linkedin.com/in/iwantican2running)
-- **Twitter:** [@iwantican2running](https://twitter.com/iwantican2running)
-- **Email:** iwantican2running@example.com
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=OSINT+Analyst)
 
 ---
 
-Thank you for visiting my profile! Let's make the internet a safer place together! 🌍
+## 🔍 About Me
+As a passionate OSINT Analyst, I thrive on uncovering hidden truths and transforming data into actionable insights. My journey in cybersecurity is driven by curiosity and a relentless pursuit of knowledge. Let's connect and explore the fascinating world of open-source intelligence together!
+
+---
+
+## 📡 Tech Stack
+
+| Language/Tool      | Badge                                         |
+|--------------------|----------------------------------------------|
+| Python             | ![Python](https://img.shields.io/badge/Python-3.9-blue) |
+| Go                 | ![Go](https://img.shields.io/badge/Go-1.16-blue)        |
+| Bash               | ![Bash](https://img.shields.io/badge/Bash-5.1-green)     |
+| Kali Linux         | ![Kali](https://img.shields.io/badge/Kali%20Linux-2021.1-red) |
+| Wireshark          | ![Wireshark](https://img.shields.io/badge/Wireshark-3.4.5-lightblue) |
+| Metasploit         | ![Metasploit](https://img.shields.io/badge/Metasploit-6.0.0-orange) |
+| Nmap               | ![Nmap](https://img.shields.io/badge/Nmap-7.92-purple)   |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwantican2running&theme=dark&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iwantican2running&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iwantican2running&theme=dark)
+
+---
+
+## 📬 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+
+---
+
+![Data Flow](https://media.giphy.com/media/3o7aD4h2v4cFq5zZcM/giphy.gif)
+
+---
+
+### Let's keep the conversation flowing! 🔐
 ```
 
-This README is designed to be visually appealing, professional, and informative for the GitHub profile of a Threat Hunter. It uses relevant emojis and integrates dynamic elements like trophies and statistics to create an engaging experience for visitors.
+### Notes:
+- The README is visually structured with sections in varying order to enhance uniqueness.
+- The GIFs and badges are chosen to fit the OSINT and cybersecurity theme, ensuring a professional tone.
+- Dynamic elements, like the typing animation, add an engaging touch to the profile.
+- The contact section is straightforward, promoting professional connections.
