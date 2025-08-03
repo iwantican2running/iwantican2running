@@ -1,44 +1,37 @@
 ```markdown
-# 👤 About Me
-🔍 Hi there! I'm **iwantican2running**, an OSINT Analyst passionate about uncovering insights through open-source intelligence. With a keen eye for detail and a knack for data analysis, I thrive in the dynamic field of cybersecurity. My journey is all about connecting the dots and transforming data into actionable intelligence. Join me as we explore the depths of the digital landscape!
+# 👤 Welcome to My Cyber Realm!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=OSINT+Analyst)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&width=500&lines=Threat+Hunter)
 
----
-
-# 🛠️ Tech Stack
-I work with a diverse set of tools and technologies that empower my OSINT endeavors:
-
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-- ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-- ![Wireshark](https://img.shields.io/badge/Wireshark-3EAAFF?style=flat&logo=wireshark&logoColor=white)
-- ![Metasploit](https://img.shields.io/badge/Metasploit-5C3EE8?style=flat&logo=metasploit&logoColor=white)
-- ![Nmap](https://img.shields.io/badge/Nmap-4EAA25?style=flat&logo=nmap&logoColor=white)
+🔍 **About Me**  
+I’m **iwantican2running**, a passionate **Threat Hunter** in the OSINT field. My mission? To unearth hidden threats and empower organizations with actionable intelligence. With a relentless curiosity and a keen analytical mind, I navigate the vast digital landscape to identify vulnerabilities and protect assets. Let’s secure our cyberspace together! 🚀
 
 ---
 
-# 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwantican2running&theme=dark&show_icons=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=iwantican2running&theme=onedark)
+🛠️ **Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3.9-blue)  
+![Go](https://img.shields.io/badge/Go-1.16-lightblue)  
+![Bash](https://img.shields.io/badge/Bash-5.1-yellow)  
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-2021.3-darkblue)  
+![Wireshark](https://img.shields.io/badge/Wireshark-3.4.0-green)  
+![Metasploit](https://img.shields.io/badge/Metasploit-6.1.2-red)  
+![Nmap](https://img.shields.io/badge/Nmap-7.92-orange)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwantican2running&theme=dark&show_icons=true)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=iwantican2running&theme=onedark)  
 ![Profile Views](https://komarev.com/ghpvc/?username=iwantican2running&color=blue)
 
 ---
 
-# 📫 Contact Me
-Feel free to reach out:
+📫 **Contact Me**  
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:your.email@example.com)
 
 ---
 
-![Data Flow](https://media.giphy.com/media/3o7TKTQ9y9U6c6D3sU/giphy.gif) 
-![Network Scan](https://media.giphy.com/media/3o6Zt6p5zvXW0q2k4g/giphy.gif) 
+![Hacking Animation](https://media.giphy.com/media/3oEjI6SIIHBdW7n2dK/giphy.gif)  
+![Data Flow](https://media.giphy.com/media/26u4a3YgWo3v5FmgA/giphy.gif)  
+![Network Scanning](https://media.giphy.com/media/26BGqjYQ9xZxUO5f2/giphy.gif)  
 
----
-
-🌐 Let's decode the digital world together! 
+🌐 Explore the unseen, and let’s build a safer digital world! 🔐
 ```
-This README incorporates a dynamic layout, a professional yet engaging tone, and visually appealing elements that reflect the OSINT theme, while keeping the content concise and within the character limit.
